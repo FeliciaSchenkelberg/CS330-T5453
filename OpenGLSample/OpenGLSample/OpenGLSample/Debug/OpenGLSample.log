@@ -1,0 +1,49 @@
+﻿  Source.cpp
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\shader.h(57): warning C4101: 'e': unreferenced local variable
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(406): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(441): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(442): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(449): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(450): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(457): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(458): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(465): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(466): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(474): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(475): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(616): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(617): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(621): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(622): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(624): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(625): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\felicia shenkelberg\downloads\openglsample\openglsample\openglsample\source.cpp(634): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+shader.obj : error LNK2001: unresolved external symbol __imp____glewAttachShader
+shader.obj : error LNK2001: unresolved external symbol __imp____glewCompileShader
+shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateProgram
+shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateShader
+shader.obj : error LNK2001: unresolved external symbol __imp____glewDeleteShader
+shader.obj : error LNK2001: unresolved external symbol __imp____glewDetachShader
+shader.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramInfoLog
+shader.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramiv
+shader.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderInfoLog
+shader.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderiv
+shader.obj : error LNK2001: unresolved external symbol __imp____glewLinkProgram
+shader.obj : error LNK2001: unresolved external symbol __imp____glewShaderSource
+Source.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwSetWindowShouldClose referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol _glfwSetFramebufferSizeCallback referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwSetInputMode referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol _glfwSetCursorPosCallback referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwSetScrollCallback referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwGetTime referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwGetProcAddress referenced in function _main
+C:\Users\Felicia Shenkelberg\Downloads\OpenGLSample\OpenGLSample\Debug\OpenGLSample.exe : fatal error LNK1120: 28 unresolved externals
